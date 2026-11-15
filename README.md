@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **shazzBytes/shazzBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://github-stats-extended.vercel.app/api/pin?username=shazzBytes&repo=shazzBytes%2Fstudylink&show_owner=true&disable_animations=false&theme=dark)
